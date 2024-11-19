@@ -1,2 +1,2 @@
 # Arjit_portfolio
- Welcome to my portfolio of data analytics projects!A portfolio showcasing data analyst projects using SQL, Excel, Python, Tableau, and Power BI. Includes data cleaning, analysis, and visualization. Features dashboards, automation scripts, and storytelling with real-world datasets, demonstrating actionable insights and problem-solving skills.
+A professional portfolio showcasing diverse data analysis projects using SQL, Excel, Python, Tableau, and Power BI. Features real-world problem-solving, data cleaning, analysis, automation, and visually compelling dashboards, highlighting actionable insights and storytelling expertise.
